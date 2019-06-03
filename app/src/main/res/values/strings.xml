@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">asista-pns-sdk-demo</string>
+
+    <string name="activity_asista_pns_toolbar_title">Asista PNS DEMO</string>
+    <string name="background_notification_body">"This Notification was received when apk was in background"</string>
+    <string name="activity_notification_list_toolbar_title">Notifications</string>
+
+    <string name="HOST_URL">https://cpaas.asista.in</string>
+    <string name="APP_KEY">e488ec0085ee11e9b80b87aa89fe5f75</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732636454874",
+    "firebase_url": "https://asista-pns-sdk-demo.firebaseio.com",
+    "project_id": "asista-pns-sdk-demo",
+    "storage_bucket": "asista-pns-sdk-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732636454874:android:b54db27401c1258d",
+        "android_client_info": {
+          "package_name": "com.asista.android.demo.pns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732636454874-oq9138cifd6goueop0u1tg93vgvp25sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5h8ytmAj1Qx5Uwzk0yBCbErluTrbEAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732636454874-oq9138cifd6goueop0u1tg93vgvp25sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
